@@ -16,7 +16,8 @@ ul {font-family:'Permanent Marker';
     background-color:#865e3c!important; 
     color: #00fc59!important; 
    }
-
+body {background-repeat: no-repeat;
+     }
 
 button {display: table!important;
         margin: auto;
