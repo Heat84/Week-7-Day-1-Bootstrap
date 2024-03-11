@@ -20,3 +20,5 @@ p {color: blue}
 button {display: table!important;
         margin: auto;
        }
+body {background-size: cover;
+     }
