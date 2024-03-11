@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #99c1f1;
+   }
+h2 {font-family: Creepster; 
+    color:#ff7102;
+   }
+h3 {font-family:cursive; <!-- Not used -->
+    color:#f8e45c; <-- Not used -->
+   }
+ul {font-family:'Permanent Marker'; 
+    background-color:#865e3c!important; 
+    color: #00fc59!important; 
+   }
+p {color: blue}
+button {display: table!important;
+        margin: auto;
+       }
