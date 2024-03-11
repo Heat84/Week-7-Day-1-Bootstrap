@@ -19,3 +19,6 @@ ul {font-family:'Permanent Marker';
 
 body {background-repeat: no-repeat;
      }
+button {display: table!important;
+        margin: auto;
+       }
